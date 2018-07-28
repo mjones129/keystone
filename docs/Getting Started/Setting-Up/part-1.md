@@ -49,7 +49,7 @@ A `cookie secret` is the only option that is technically required to launch Keys
 
 Finally, we call `keystone.start()`, which kicks off our Keystone app.
 
-We can now check this runs. Run `node keystone.js` and you should be greeted with:
+We can now check if this runs. Run `node keystone.js` and you should be greeted with:
 
 ```sh
 ------------------------------------------------
